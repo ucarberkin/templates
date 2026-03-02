@@ -1,0 +1,60 @@
+{
+  "name": "privy-auth",
+  "displayName": "Privy Auth",
+  "description": "Privy-based authentication in a Solana dApp with social logins, embedded wallets, and protected routes",
+  "usecase": "Auth",
+  "keywords": [
+    "privy",
+    "authentication",
+    "solana",
+    "social-login",
+    "embedded-wallet",
+    "nextjs",
+    "tailwind",
+    "typescript"
+  ],
+  "create-solana-dapp": {
+    "instructions": [
+      "Set up Privy:",
+      "1. Create a free account at https://dashboard.privy.io",
+      "2. Create a new app and copy your App ID",
+      "3. Copy .env.example to .env.local and add your App ID:",
+      "+cp .env.example .env.local",
+      "4. Enable your desired login methods in the Privy Dashboard (Google, Discord, etc.)",
+      "Install dependencies:",
+      "+{pm} install",
+      "Start the development server:",
+      "+{pm} run dev"
+    ]
+  },
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "ci": "npm run build && npm run lint && npm run format:check"
+  },
+  "dependencies": {
+    "@privy-io/react-auth": "^2.12.1",
+    "@solana/web3.js": "^1.98.0",
+    "next": "^15.3.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "eslint": "^9.35.0",
+    "eslint-config-next": "^15.3.3",
+    "prettier": "^3.6.2",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.9.2"
+  }
+}

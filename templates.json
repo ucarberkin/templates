@@ -480,6 +480,25 @@
         "usecase": "Mobile"
       },
       {
+        "description": "Privy-based authentication in a Solana dApp with social logins, embedded wallets, and protected routes",
+        "id": "gh:solana-foundation/templates/community/privy-auth",
+        "image": "community/privy-auth/og-image.png",
+        "keywords": [
+          "privy",
+          "authentication",
+          "solana",
+          "social-login",
+          "embedded-wallet",
+          "nextjs",
+          "tailwind",
+          "typescript"
+        ],
+        "name": "privy-auth",
+        "path": "community/privy-auth",
+        "displayName": "Privy Auth",
+        "usecase": "Auth"
+      },
+      {
         "description": "ChatGPT app with Solana features - Swaps, transfers, staking and data query via natural language. Browser wallets + x402 payments or private key mode",
         "id": "gh:solana-foundation/templates/community/solana-chatgpt-kit",
         "image": "community/solana-chatgpt-kit/og-image.png",

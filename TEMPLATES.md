@@ -222,6 +222,14 @@ Templates maintained by the Solana community
 
 `solana` `phantom` `wallet` `embedded-wallet` `react-native` `expo` `mobile` `typescript` `oauth` `authentication`
 
+### [privy-auth](community/privy-auth)
+
+`gh:solana-foundation/templates/community/privy-auth`
+
+> Privy-based authentication in a Solana dApp with social logins, embedded wallets, and protected routes
+
+`privy` `authentication` `solana` `social-login` `embedded-wallet` `nextjs` `tailwind` `typescript`
+
 ### [solana-chatgpt-kit](community/solana-chatgpt-kit)
 
 `gh:solana-foundation/templates/community/solana-chatgpt-kit`
