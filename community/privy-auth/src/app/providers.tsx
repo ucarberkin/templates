@@ -42,7 +42,7 @@ export default function Providers({ children }: { children: React.ReactNode }) {
         appearance: {
           theme: "dark",
           accentColor: "#9945FF",
-          logo: "https://raw.githubusercontent.com/ucarberkin/templates/main/community/privy-auth/og-image.png",
+          logo: "https://raw.githubusercontent.com/ucarberkin/templates/main/community/privy-auth/Privy_image_v2.png",
         },
         embeddedWallets: {
           solana: {
