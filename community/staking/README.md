@@ -87,7 +87,12 @@ This model:
    cd anchor && anchor test
    ```
 
-4. Start the development server:
+4. Deploy to devnet (optional):
+   ```bash
+   cd anchor && anchor deploy --provider.cluster devnet
+   ```
+
+5. Start the development server:
    ```bash
    pnpm dev
    ```
