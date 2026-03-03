@@ -238,6 +238,14 @@ Templates maintained by the Solana community
 
 `solana` `chatgpt` `openai` `mcp` `jupiter` `x402` `payments` `swap` `wallet` `defi` `staking` `nextjs` `typescript` `spl-token` `sns`
 
+### [staking](community/staking)
+
+`gh:solana-foundation/templates/community/staking`
+
+> Anchor-based SPL token staking with Synthetix-style rewards, Next.js frontend, and wallet adapter
+
+`anchor` `staking` `spl-token` `defi` `nextjs` `react` `solana-web3js` `tailwind` `typescript` `wallet-adapter`
+
 ### [supabase-auth](community/supabase-auth)
 
 `gh:solana-foundation/templates/community/supabase-auth`

@@ -525,6 +525,27 @@
         "usecase": "Starter"
       },
       {
+        "description": "Anchor-based SPL token staking with Synthetix-style rewards, Next.js frontend, and wallet adapter",
+        "id": "gh:solana-foundation/templates/community/staking",
+        "image": "community/staking/og-image.png",
+        "keywords": [
+          "anchor",
+          "staking",
+          "spl-token",
+          "defi",
+          "nextjs",
+          "react",
+          "solana-web3js",
+          "tailwind",
+          "typescript",
+          "wallet-adapter"
+        ],
+        "name": "staking",
+        "path": "community/staking",
+        "displayName": "SPL Token Staking",
+        "usecase": "DeFi"
+      },
+      {
         "description": "Authenticate Solana wallets with Supabase",
         "id": "gh:solana-foundation/templates/community/supabase-auth",
         "image": "community/supabase-auth/og-image.png",
