@@ -77,3 +77,5 @@ pinocchio/**/dist
 
 # AI
 **/.claude/.DS_Store
+.DS_Store
+.DS_Store
