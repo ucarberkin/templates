@@ -76,4 +76,4 @@ pinocchio/**/clients/rust/src/generated/
 pinocchio/**/dist
 
 # AI
-**/.claude/
+**/.claude/.DS_Store
